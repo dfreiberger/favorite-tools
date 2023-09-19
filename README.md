@@ -16,6 +16,10 @@ This repository lists tools I have found extremely helpful for troubleshooting s
 
 [WinDbg Preview](https://www.microsoft.com/en-us/p/windbg-preview/9pgjgd53tn86) is a modernized version of windbg. It can be used to attach to a running process and view the call stack, set breakpoints, and view the values of variables. 
 
+### Fiddler
+
+[Fiddler](https://www.telerik.com/fiddler) is a free web debugging proxy. It can be used to capture and analyze HTTP and HTTPS traffic.
+
 ## .NET
 
 ### JetBrains dotPeek
@@ -32,10 +36,6 @@ This repository lists tools I have found extremely helpful for troubleshooting s
 
 [Wireshark](https://www.wireshark.org/) is a free network protocol analyzer. It can be used to capture and analyze network traffic. It is an essential tool for any control system engineer and you can use it to troubleshoot network issues, reverse engineer protocols, and debug applications.
 
-### Fiddler
-
-[Fiddler](https://www.telerik.com/fiddler) is a free web debugging proxy. It can be used to capture and analyze HTTP and HTTPS traffic.
-
 ### Meld
 
 [Meld](https://meldmerge.org/) is a free visual diff and merge tool. It can be used to compare files and directories. This is particularly useful when trying to troubleshoot issues occuring on one system but not on another, since it gives a very easy way to compare entire directory structures or individual files. Of course this can be useful to learn what has changed between two versions of an application as well.
@@ -43,3 +43,12 @@ This repository lists tools I have found extremely helpful for troubleshooting s
 ### ghidra
 
 [ghidra](https://ghidra-sre.org/) is a free reverse engineering tool. It can be used to analyze binaries and decompile them into C code as well as edit the assembly code.
+
+### Postman
+
+[Postman](https://www.postman.com/) is a free API development environment. It can be used to send HTTP requests and view the responses. It is very useful for troubleshooting REST APIs or building interfaces to applications that don't offer a documented API.
+
+### Chrome Developer Tools
+
+[Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools) is a set of web developer tools built into the Chrome browser. It can be used to debug JavaScript, analyze network traffic, and view the DOM. It is very useful for troubleshooting web applications.
+
