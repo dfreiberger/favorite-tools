@@ -6,11 +6,11 @@ This repository lists tools I have found extremely helpful for troubleshooting s
 
 ### Process Explorer
 
-[Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) is a great tool for digging into the details of running processes. It can be used to view the command line arguments used to start a process, the environment variables, and the DLLs loaded by the process. It can also be used to view the handles and threads used by a process.
+[Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) is a great tool for digging into the details of running processes. It can be used to view the command line arguments used to start a process, the environment variables, and the DLLs loaded by the process. It can also be used to view the handles and threads used by a process. I use this mainly to figure out what DLLs are being used by an application so that I can better understand the application structure.
 
 ### Process Monitor
 
-[Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) is a tool for monitoring the file system, registry, and process activity on a Windows system. It can be used to see what files and registry keys are being accessed by a process, and what processes are accessing a file or registry key. This is useful when troubleshooting applications or if you want to automate something that is normally done through the GUI and not exposed or documented by the software vendor.
+[Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) is a tool for monitoring the file system, registry, and process activity on a Windows system. It can be used to see what files and registry keys are being accessed by a process, and what processes are accessing a file or registry key. This is useful when troubleshooting applications or if you want to automate something that is normally done through the GUI and not exposed or documented by the software vendor. 
 
 ### WinDbg Preview
 
@@ -20,7 +20,7 @@ This repository lists tools I have found extremely helpful for troubleshooting s
 
 ### JetBrains dotPeek
 
-[JetBrains dotPeek](https://www.jetbrains.com/decompiler/) is a free .NET decompiler. It can be used to view the source code of .NET assemblies.
+[JetBrains dotPeek](https://www.jetbrains.com/decompiler/) is a free .NET decompiler. It can be used to view the source code of .NET assemblies and is very useful when troubleshooting .NET applications.
 
 ### dnSpy
 
